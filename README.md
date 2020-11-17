@@ -1,5 +1,8 @@
 Test task for "Saber Interactive"
 
+WARNING! This service uses cookies for identifying clients, 
+you must turn it on client
+
 1. Install packages for project
 
 $ virtualenv NEWVIRTUALENV
