@@ -1,12 +1,10 @@
 from tornado.web import Application, RequestHandler
 from tornado.ioloop import IOLoop
 import json
-from functools import partial
 
 # Customization
 file_name = "test1.txt"
 lines_in_message = 1000
-lines_in_file = 0
 total_size = 0
 
 
