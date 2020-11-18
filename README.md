@@ -1,7 +1,6 @@
 Test task for "Saber Interactive"
 
-WARNING! This service uses cookies for identifying clients, 
-you must turn it on client
+WARNING! in this version offset and total_size are in bytes
 
 1. Install packages for project
 
