@@ -1,4 +1,4 @@
-Test task for "Saber Interactive"
+Test task for "Saber Interactive". Task description look at 'SaberPythonTest_new1.docx' 
 
 WARNING! in this version offset and total_size are in bytes
 
